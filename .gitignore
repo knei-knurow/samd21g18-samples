@@ -1,0 +1,11 @@
+# tools
+.vs/
+.vscode/
+.idea/
+
+# generated stuff
+*.o
+*.out
+
+# other
+.DS_Store
