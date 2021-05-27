@@ -9,3 +9,16 @@
 
 # other
 .DS_Store
+
+*.atsue
+*.sue
+*.elf
+*.hex
+*.bin
+*.map
+*.lss
+*.eep
+*.srec
+*.d
+*/Debug/
+*/Release/
